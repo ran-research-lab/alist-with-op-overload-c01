@@ -1,0 +1,9 @@
+CMakeCache.txt
+catchExample
+main
+Makefile
+cmake_install.cmake
+CMakeFiles/
+cmake-build-debug/
+.idea/
+
